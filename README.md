@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Crytos
-- 👀 I’m interested in Gorilla tag Mods
-- 🌱 I’m currently learning C#
+- 👀 I’m interested in Bonelab Mods
+- 🌱 I’m currently learning Ult Events
 - 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me N/A
 

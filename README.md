@@ -1,4 +1,4 @@
-
+![Metrics](/github-metrics.svg)
 - 👀 I’m interested in Gorilla tag mods
 
 <!---
